@@ -4,9 +4,9 @@
 
 - I’m currently working on [neko](https://github.com/satoukick/neko)
 - I’m currently learning Rust, Jaeger, Consul
-- Gaming: 原神 (Genshin Impact)
-- Anime: 白い砂のアクアトープ 
-- Music: 夜明け前 - あらたよ
+- Gaming: 原神 (Genshin Impact), Arknights
+- Anime: リコリス・リコイル
+- Music: Honkai Impact 3rd OSTs
 
 
 <!--
