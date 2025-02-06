@@ -2,13 +2,6 @@
 
 [![satoukick's GitHub stats](https://github-readme-stats.vercel.app/api?username=satoukick)](https://github.com/anuraghazra/github-readme-stats)
 
-- I’m currently working on [neko](https://github.com/satoukick/neko)
-- I’m currently learning Rust, Jaeger, Consul
-- Gaming: 原神 (Genshin Impact), Arknights
-- Anime: リコリス・リコイル
-- Music: Honkai Impact 3rd OSTs
-
-
 <!--
 **satoukick/satoukick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
